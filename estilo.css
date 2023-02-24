@@ -1,0 +1,92 @@
+
+
+#h1-index {
+	font-family:cursive;
+	color: black;
+	font-size: 60px;
+}
+
+body {
+	text-align: center;
+	background-color: #DAB6E2 ;
+}
+
+#img-index	{
+	float: center;
+	width: 150px;
+	height: 150px;	
+}
+
+.a-index {
+	font-family: Brush Script MT;
+	color: black;
+	background-color: #D9AFE3;
+	font-size: 25px;
+}
+
+.pie {
+	width: 98%;
+	border: 20px SOLID #DAC4DF;
+}
+
+h1{
+	font-family:cursive;
+	color: black;
+	font-size: 35px;
+}
+sup{
+	font-family:monospace;
+	color: #013854;
+	font-size: 28px;
+}
+sub{
+	font-family: Brush Script MT;
+	color: black;
+	background-color: #D9AFE3;
+	font-size: 25px;
+}
+img {
+	  width: 8%;
+	  height: 8%;
+}
+.cabecera{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+.subtitulo{
+	width: 98%;
+	border: 8px solid #DAC4DF;
+}
+.contenido{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+.apartado{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+.pie{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+.encabezado{
+	font-family:cursive;
+	color: black;
+	font-size: 35px;
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+.contactos{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+	text-align: center;
+}
+
+#footer-contactos{
+	width: 98%;
+	border: 10px solid #DAC4DF;
+}
+#img-contactos{
+
+	float: left;
+}
